@@ -42,13 +42,13 @@ Install dependencies:
 
 
 npm install
-# or
+
 yarn install
 
-
+#Run the app:
 
 npx react-native run-android
-# or
+
 npx react-native run-ios
 
 Usage
