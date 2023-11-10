@@ -45,7 +45,7 @@ npm install
 
 yarn install
 
-#Run the app:
+# Run the app:
 
 npx react-native run-android
 
